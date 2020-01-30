@@ -1,0 +1,55 @@
+.sections {
+	border-top: solid 2px white;
+}
+
+#search {
+	background-color: blanchedalmond;	
+}
+
+.content {
+	background-color: cornflowerblue;
+}
+
+.comments {
+	border-top: solid 2px white;
+}
+
+.user {
+	background-color: lightgreen;
+}
+
+.main {
+	background-image: url(../img/background.jpg);
+	background-attachment: scroll;
+  	background-repeat: no-repeat;
+  	background-position: center center;
+  	background-size: cover;
+  	width: 100%;
+ 	height: 100%;
+}
+
+.container {
+	background-color: blue;
+	opacity: 0.85;
+}
+
+#header {
+	color: white;
+	border-right: solid 2px white;
+}
+
+.name {
+	text-align: left;
+}
+
+.logo {
+	text-align: right;
+}
+
+.comentario-image{
+	width: 50px;
+	height: 50px;
+}
+
+
+
